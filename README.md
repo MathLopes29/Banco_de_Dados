@@ -7,7 +7,7 @@
 <h3 align="center"><strong>Material de Banco de Dados - DSM 1º Semestre</strong></h3>
 
 <div align="center">
-   <p> Materiais de Aula de Baanco de Dados</p>
+   <p> Materiais de Aula de Banco de Dados</p>
    <p> Conceitos Teóricos e Práticos de SQL</p>
    <p> Modelagem de Banco de Dados e Documentação sobre cada Aula </p>
    <p> Trabalhos Práticos de Implementação no SQL Server </p>
